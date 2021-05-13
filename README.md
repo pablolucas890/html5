@@ -1,3 +1,5 @@
+<img src="gif.gif">
+<hr>
 <h1 align="center"> html </h1>
 <h3 align="center">Repositório destinado ao estudo de html</h3>
 
